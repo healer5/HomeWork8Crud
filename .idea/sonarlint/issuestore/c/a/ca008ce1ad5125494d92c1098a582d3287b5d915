@@ -1,0 +1,14 @@
+
+ª
+java:S4165	"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8å˜ú¾ö1J$55014d93-0c5e-4d7e-b4db-42886e9b7736
+¨
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ8æ˜ú¾ö1J$37c4b7d4-aa9f-4675-bf5d-aa73e6f77154
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’¹¾
+8é˜ú¾ö1J$5a4f705a-d9b2-47b3-8bcc-aa72b498c3fc
+Ä
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò’Š¯8ê˜ú¾ö1J$9d9f8ea5-1d6f-4100-b415-d5d867e8a4c7
+w
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ8ò˜ú¾ö1J$3524c888-3831-4b6c-bcc6-7fc097c521a1
+w
+java:S1656	"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8ò˜ú¾ö1J$ca873f05-cdb1-4fee-beb2-779a6023deac
